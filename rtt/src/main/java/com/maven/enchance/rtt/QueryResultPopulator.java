@@ -69,7 +69,7 @@ public class QueryResultPopulator {
 										o_card_counter, address));
 								
 								Query q = new Query().SetOdometer(odometer_min, odometer_max).SetSeats(4, 4).SetBodyType("convertible");
-								//qrm.Add(new QueryResult(address, new int[] {odometer_min,odometer_max},new int[] {4,4} , "convertible"));
+								qrm.Add(new QueryResult(address, q));
 								total_listing++;
 							} catch (Exception e) {
 								out.println(

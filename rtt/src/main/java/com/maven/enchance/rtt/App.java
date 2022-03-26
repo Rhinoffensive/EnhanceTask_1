@@ -5,6 +5,8 @@ public class App {
 
 	public static void main(String[] args) {
 
+		
+
 		//QueryResultManager manager = new QueryResultManager();
 		QueryResultManager manager = QueryResultManager.Deserialize();
 		QueryResultPopulator qrp = new QueryResultPopulator();

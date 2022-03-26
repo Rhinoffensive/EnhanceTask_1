@@ -24,9 +24,9 @@ public class QueryResultManager {
 		QueryResults = qrs;
 	}
 
-	public boolean Contains(QueryResult qr) {
-		return QueryResults.containsKey(qr.URLLink);
-	}
+//	public boolean Contains(Query qr) {
+//		return QueryResults.containsKey(qr.URLLink);
+//	}
 
 	public void Serialize() {
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
@@ -76,7 +76,7 @@ public class QueryResultManager {
 			System.out.println("An error occurred.");
 			e.printStackTrace();
 		}
-		System.out.print(jsonFile);
+		//System.out.print(jsonFile);
 		if (parsed) {
 			Gson gson = new GsonBuilder().create();
 
@@ -93,15 +93,11 @@ public class QueryResultManager {
 	}
 
 	public void Add(QueryResult qr) {
-		if(this.QueryResults.containsKey(qr.URLLink))
-			System.out.println("Contains");
+		if(!QueryResults.containsKey(qr.URLLink))
+			QueryResults.put(qr.URLLink,qr);
 		else
-			System.out.println("Not Contains");
-//		if (!Contains(qr)) {
-//			QueryResults.put(qr.URLLink, qr);
-//		}else {
-//			QueryResults.get(qr.URLLink).Add(qr);
-//		}
+			QueryResults.get(qr.URLLink).AddQuery(qr.query.get(0));
+		
 	}
 
 }
