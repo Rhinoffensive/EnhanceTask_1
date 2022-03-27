@@ -1,0 +1,74 @@
+{
+  "https://www.trademe.co.nz/a/motors/cars/other/other/listing/3265504164": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/other/other/listing/3265504164",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/jeep/wrangler/listing/3479133291": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/jeep/wrangler/listing/3479133291",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3458321338": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3458321338",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/ferrari/portofino/listing/3515026071": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/ferrari/portofino/listing/3515026071",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/ford/other/listing/3504035216": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/ford/other/listing/3504035216",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/ford/roadster/listing/3519456812": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/ford/roadster/listing/3519456812",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  }
+}
