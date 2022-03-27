@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>TestNG Report</title><style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}</style></head><body><table><tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr><tr><th colspan="7">Default suite</th></tr><tr><td><a href="#t0">Default test</a></td><td class="num">4</td><td class="num">0</td><td class="num attn">2</td><td class="num">31.087</td><td></td><td></td></tr></table><table><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Default suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Default test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="2">com.enhance.rtt.testcases.TC_001_Car_Page</td><td><a href="#m0">TestCarPage</a></td><td rowspan="2">1648418856329</td><td rowspan="2">5406</td></tr><tr class="failedeven"><td><a href="#m1">TestCarPage</a></td></tr><tr><th colspan="4">Default test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="4">com.enhance.rtt.testcases.TC_001_Car_Page</td><td><a href="#m2">TestCarPage</a></td><td rowspan="4">1648418844310</td><td rowspan="4">6591</td></tr><tr class="passedeven"><td><a href="#m3">TestCarPage</a></td></tr><tr class="passedeven"><td><a href="#m4">TestCarPage</a></td></tr><tr class="passedeven"><td><a href="#m5">TestCarPage</a></td></tr></tbody></table><h2>Default test</h2><h3 id="m0">com.enhance.rtt.testcases.TC_001_Car_Page#TestCarPage</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3458321338</td><td>com.maven.enchance.rtt.QueryResult@27cf3151</td></tr><tr><th colspan="2">Messages</th></tr><tr><td colspan="2"><div class="messages">https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3458321338<br/>CAR ATTRIBUTES: 
+ 
+	 Odometer: 100, 
+	 Seats: 4, 
+	 Body Type: Convertible, 
+	 Number Plate: null<br/>---Query #1---<br/>Check odometer: 100&lt;= actual_val :(100) &lt;= 1000 STATUS: PASS<br/>Check seats: 1&lt;= actual_val :(4) &lt;= -1 STATUS: PASS<br/>Check plate : null STATUS: FAIL<br/>Check body: expected(convertible) == actual(Convertible) STATUS: PASS<br/>------------------<br/>Step STATUS : FAIL</div></td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.enhance.rtt.testcases.TC_001_Car_Page.TestCarPage(TC_001_Car_Page.java:62)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p><h3 id="m1">com.enhance.rtt.testcases.TC_001_Car_Page#TestCarPage</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>https://www.trademe.co.nz/a/motors/cars/ferrari/portofino/listing/3515026071</td><td>com.maven.enchance.rtt.QueryResult@30b34287</td></tr><tr><th colspan="2">Messages</th></tr><tr><td colspan="2"><div class="messages">https://www.trademe.co.nz/a/motors/cars/ferrari/portofino/listing/3515026071<br/>CAR ATTRIBUTES: 
+ 
+	 Odometer: 150, 
+	 Seats: 4, 
+	 Body Type: Convertible, 
+	 Number Plate: null<br/>---Query #1---<br/>Check odometer: 100&lt;= actual_val :(150) &lt;= 1000 STATUS: PASS<br/>Check seats: 1&lt;= actual_val :(4) &lt;= -1 STATUS: PASS<br/>Check plate : null STATUS: FAIL<br/>Check body: expected(convertible) == actual(Convertible) STATUS: PASS<br/>------------------<br/>Step STATUS : FAIL</div></td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.enhance.rtt.testcases.TC_001_Car_Page.TestCarPage(TC_001_Car_Page.java:62)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p><h3 id="m2">com.enhance.rtt.testcases.TC_001_Car_Page#TestCarPage</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>https://www.trademe.co.nz/a/motors/cars/other/other/listing/3265504164</td><td>com.maven.enchance.rtt.QueryResult@5990e6c5</td></tr><tr><th colspan="2">Messages</th></tr><tr><td colspan="2"><div class="messages">https://www.trademe.co.nz/a/motors/cars/other/other/listing/3265504164<br/>CAR ATTRIBUTES: 
+ 
+	 Odometer: 1000, 
+	 Seats: 4, 
+	 Body Type: Convertible, 
+	 Number Plate: NSZ568<br/>---Query #1---<br/>Check odometer: 100&lt;= actual_val :(1000) &lt;= 1000 STATUS: PASS<br/>Check seats: 1&lt;= actual_val :(4) &lt;= -1 STATUS: PASS<br/>Check plate : NSZ568 STATUS: PASS<br/>Check body: expected(convertible) == actual(Convertible) STATUS: PASS<br/>------------------<br/>Step STATUS : PASS</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p><h3 id="m3">com.enhance.rtt.testcases.TC_001_Car_Page#TestCarPage</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>https://www.trademe.co.nz/a/motors/cars/ford/roadster/listing/3519456812</td><td>com.maven.enchance.rtt.QueryResult@22680f52</td></tr><tr><th colspan="2">Messages</th></tr><tr><td colspan="2"><div class="messages">https://www.trademe.co.nz/a/motors/cars/ford/roadster/listing/3519456812<br/>CAR ATTRIBUTES: 
+ 
+	 Odometer: 500, 
+	 Seats: 1, 
+	 Body Type: Convertible, 
+	 Number Plate: 27th<br/>---Query #1---<br/>Check odometer: 100&lt;= actual_val :(500) &lt;= 1000 STATUS: PASS<br/>Check seats: 1&lt;= actual_val :(1) &lt;= -1 STATUS: PASS<br/>Check plate : 27th STATUS: PASS<br/>Check body: expected(convertible) == actual(Convertible) STATUS: PASS<br/>------------------<br/>Step STATUS : PASS</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p><h3 id="m4">com.enhance.rtt.testcases.TC_001_Car_Page#TestCarPage</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>https://www.trademe.co.nz/a/motors/cars/ford/other/listing/3504035216</td><td>com.maven.enchance.rtt.QueryResult@66238be2</td></tr><tr><th colspan="2">Messages</th></tr><tr><td colspan="2"><div class="messages">https://www.trademe.co.nz/a/motors/cars/ford/other/listing/3504035216<br/>CAR ATTRIBUTES: 
+ 
+	 Odometer: 1000, 
+	 Seats: 5, 
+	 Body Type: Convertible, 
+	 Number Plate: 0LDV8<br/>---Query #1---<br/>Check odometer: 100&lt;= actual_val :(1000) &lt;= 1000 STATUS: PASS<br/>Check seats: 1&lt;= actual_val :(5) &lt;= -1 STATUS: PASS<br/>Check plate : 0LDV8 STATUS: PASS<br/>Check body: expected(convertible) == actual(Convertible) STATUS: PASS<br/>------------------<br/>Step STATUS : PASS</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p><h3 id="m5">com.enhance.rtt.testcases.TC_001_Car_Page#TestCarPage</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>https://www.trademe.co.nz/a/motors/cars/jeep/wrangler/listing/3479133291</td><td>com.maven.enchance.rtt.QueryResult@e24ddd0</td></tr><tr><th colspan="2">Messages</th></tr><tr><td colspan="2"><div class="messages">https://www.trademe.co.nz/a/motors/cars/jeep/wrangler/listing/3479133291<br/>CAR ATTRIBUTES: 
+ 
+	 Odometer: 200, 
+	 Seats: 4, 
+	 Body Type: Convertible, 
+	 Number Plate: UU4239<br/>---Query #1---<br/>Check odometer: 100&lt;= actual_val :(200) &lt;= 1000 STATUS: PASS<br/>Check seats: 1&lt;= actual_val :(4) &lt;= -1 STATUS: PASS<br/>Check plate : UU4239 STATUS: PASS<br/>Check body: expected(convertible) == actual(Convertible) STATUS: PASS<br/>------------------<br/>Step STATUS : PASS</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p></body></html>

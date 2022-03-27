@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="4" failed="2" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[https://www.trademe.co.nz/a/motors/cars/other/other/listing/3265504164]]>
+    </line>
+    <line>
+      <![CDATA[CAR ATTRIBUTES: 
+ 
+	 Odometer: 1000, 
+	 Seats: 4, 
+	 Body Type: Convertible, 
+	 Number Plate: NSZ568]]>
+    </line>
+    <line>
+      <![CDATA[---Query #1---]]>
+    </line>
+    <line>
+      <![CDATA[Check odometer: 100<= actual_val :(1000) <= 1000 STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[Check seats: 1<= actual_val :(4) <= -1 STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[Check plate : NSZ568 STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[Check body: expected(convertible) == actual(Convertible) STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[------------------]]>
+    </line>
+    <line>
+      <![CDATA[Step STATUS : PASS]]>
+    </line>
+    <line>
+      <![CDATA[https://www.trademe.co.nz/a/motors/cars/jeep/wrangler/listing/3479133291]]>
+    </line>
+    <line>
+      <![CDATA[CAR ATTRIBUTES: 
+ 
+	 Odometer: 200, 
+	 Seats: 4, 
+	 Body Type: Convertible, 
+	 Number Plate: UU4239]]>
+    </line>
+    <line>
+      <![CDATA[---Query #1---]]>
+    </line>
+    <line>
+      <![CDATA[Check odometer: 100<= actual_val :(200) <= 1000 STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[Check seats: 1<= actual_val :(4) <= -1 STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[Check plate : UU4239 STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[Check body: expected(convertible) == actual(Convertible) STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[------------------]]>
+    </line>
+    <line>
+      <![CDATA[Step STATUS : PASS]]>
+    </line>
+    <line>
+      <![CDATA[https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3458321338]]>
+    </line>
+    <line>
+      <![CDATA[CAR ATTRIBUTES: 
+ 
+	 Odometer: 100, 
+	 Seats: 4, 
+	 Body Type: Convertible, 
+	 Number Plate: null]]>
+    </line>
+    <line>
+      <![CDATA[---Query #1---]]>
+    </line>
+    <line>
+      <![CDATA[Check odometer: 100<= actual_val :(100) <= 1000 STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[Check seats: 1<= actual_val :(4) <= -1 STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[Check plate : null STATUS: FAIL]]>
+    </line>
+    <line>
+      <![CDATA[Check body: expected(convertible) == actual(Convertible) STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[------------------]]>
+    </line>
+    <line>
+      <![CDATA[Step STATUS : FAIL]]>
+    </line>
+    <line>
+      <![CDATA[https://www.trademe.co.nz/a/motors/cars/ferrari/portofino/listing/3515026071]]>
+    </line>
+    <line>
+      <![CDATA[CAR ATTRIBUTES: 
+ 
+	 Odometer: 150, 
+	 Seats: 4, 
+	 Body Type: Convertible, 
+	 Number Plate: null]]>
+    </line>
+    <line>
+      <![CDATA[---Query #1---]]>
+    </line>
+    <line>
+      <![CDATA[Check odometer: 100<= actual_val :(150) <= 1000 STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[Check seats: 1<= actual_val :(4) <= -1 STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[Check plate : null STATUS: FAIL]]>
+    </line>
+    <line>
+      <![CDATA[Check body: expected(convertible) == actual(Convertible) STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[------------------]]>
+    </line>
+    <line>
+      <![CDATA[Step STATUS : FAIL]]>
+    </line>
+    <line>
+      <![CDATA[https://www.trademe.co.nz/a/motors/cars/ford/other/listing/3504035216]]>
+    </line>
+    <line>
+      <![CDATA[CAR ATTRIBUTES: 
+ 
+	 Odometer: 1000, 
+	 Seats: 5, 
+	 Body Type: Convertible, 
+	 Number Plate: 0LDV8]]>
+    </line>
+    <line>
+      <![CDATA[---Query #1---]]>
+    </line>
+    <line>
+      <![CDATA[Check odometer: 100<= actual_val :(1000) <= 1000 STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[Check seats: 1<= actual_val :(5) <= -1 STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[Check plate : 0LDV8 STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[Check body: expected(convertible) == actual(Convertible) STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[------------------]]>
+    </line>
+    <line>
+      <![CDATA[Step STATUS : PASS]]>
+    </line>
+    <line>
+      <![CDATA[https://www.trademe.co.nz/a/motors/cars/ford/roadster/listing/3519456812]]>
+    </line>
+    <line>
+      <![CDATA[CAR ATTRIBUTES: 
+ 
+	 Odometer: 500, 
+	 Seats: 1, 
+	 Body Type: Convertible, 
+	 Number Plate: 27th]]>
+    </line>
+    <line>
+      <![CDATA[---Query #1---]]>
+    </line>
+    <line>
+      <![CDATA[Check odometer: 100<= actual_val :(500) <= 1000 STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[Check seats: 1<= actual_val :(1) <= -1 STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[Check plate : 27th STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[Check body: expected(convertible) == actual(Convertible) STATUS: PASS]]>
+    </line>
+    <line>
+      <![CDATA[------------------]]>
+    </line>
+    <line>
+      <![CDATA[Step STATUS : PASS]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-03-27T22:07:22Z" name="Default suite" finished-at="2022-03-27T22:07:53Z" duration-ms="31087">
+    <groups>
+    </groups>
+    <test started-at="2022-03-27T22:07:22Z" name="Default test" finished-at="2022-03-27T22:07:53Z" duration-ms="31087">
+      <class name="com.enhance.rtt.testcases.TC_001_Car_Page">
+        <test-method is-config="true" signature="Init()[pri:0, instance:com.enhance.rtt.testcases.TC_001_Car_Page@27f981c6]" started-at="2022-03-28T01:07:22Z" name="Init" finished-at="2022-03-28T01:07:24Z" duration-ms="1475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method signature="TestCarPage(java.lang.String, com.maven.enchance.rtt.QueryResult)[pri:0, instance:com.enhance.rtt.testcases.TC_001_Car_Page@27f981c6]" started-at="2022-03-28T01:07:24Z" name="TestCarPage" data-provider="Static" finished-at="2022-03-28T01:07:30Z" duration-ms="6591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.trademe.co.nz/a/motors/cars/other/other/listing/3265504164]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[com.maven.enchance.rtt.QueryResult@5990e6c5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://www.trademe.co.nz/a/motors/cars/other/other/listing/3265504164]]>
+            </line>
+            <line>
+              <![CDATA[CAR ATTRIBUTES: 
+ 
+	 Odometer: 1000, 
+	 Seats: 4, 
+	 Body Type: Convertible, 
+	 Number Plate: NSZ568]]>
+            </line>
+            <line>
+              <![CDATA[---Query #1---]]>
+            </line>
+            <line>
+              <![CDATA[Check odometer: 100<= actual_val :(1000) <= 1000 STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[Check seats: 1<= actual_val :(4) <= -1 STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[Check plate : NSZ568 STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[Check body: expected(convertible) == actual(Convertible) STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[------------------]]>
+            </line>
+            <line>
+              <![CDATA[Step STATUS : PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestCarPage -->
+        <test-method signature="TestCarPage(java.lang.String, com.maven.enchance.rtt.QueryResult)[pri:0, instance:com.enhance.rtt.testcases.TC_001_Car_Page@27f981c6]" started-at="2022-03-28T01:07:30Z" name="TestCarPage" data-provider="Static" finished-at="2022-03-28T01:07:36Z" duration-ms="5425" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.trademe.co.nz/a/motors/cars/jeep/wrangler/listing/3479133291]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[com.maven.enchance.rtt.QueryResult@e24ddd0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://www.trademe.co.nz/a/motors/cars/jeep/wrangler/listing/3479133291]]>
+            </line>
+            <line>
+              <![CDATA[CAR ATTRIBUTES: 
+ 
+	 Odometer: 200, 
+	 Seats: 4, 
+	 Body Type: Convertible, 
+	 Number Plate: UU4239]]>
+            </line>
+            <line>
+              <![CDATA[---Query #1---]]>
+            </line>
+            <line>
+              <![CDATA[Check odometer: 100<= actual_val :(200) <= 1000 STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[Check seats: 1<= actual_val :(4) <= -1 STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[Check plate : UU4239 STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[Check body: expected(convertible) == actual(Convertible) STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[------------------]]>
+            </line>
+            <line>
+              <![CDATA[Step STATUS : PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestCarPage -->
+        <test-method signature="TestCarPage(java.lang.String, com.maven.enchance.rtt.QueryResult)[pri:0, instance:com.enhance.rtt.testcases.TC_001_Car_Page@27f981c6]" started-at="2022-03-28T01:07:36Z" name="TestCarPage" data-provider="Static" finished-at="2022-03-28T01:07:41Z" duration-ms="5406" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3458321338]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[com.maven.enchance.rtt.QueryResult@27cf3151]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.enhance.rtt.testcases.TC_001_Car_Page.TestCarPage(TC_001_Car_Page.java:62)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3458321338]]>
+            </line>
+            <line>
+              <![CDATA[CAR ATTRIBUTES: 
+ 
+	 Odometer: 100, 
+	 Seats: 4, 
+	 Body Type: Convertible, 
+	 Number Plate: null]]>
+            </line>
+            <line>
+              <![CDATA[---Query #1---]]>
+            </line>
+            <line>
+              <![CDATA[Check odometer: 100<= actual_val :(100) <= 1000 STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[Check seats: 1<= actual_val :(4) <= -1 STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[Check plate : null STATUS: FAIL]]>
+            </line>
+            <line>
+              <![CDATA[Check body: expected(convertible) == actual(Convertible) STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[------------------]]>
+            </line>
+            <line>
+              <![CDATA[Step STATUS : FAIL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestCarPage -->
+        <test-method signature="TestCarPage(java.lang.String, com.maven.enchance.rtt.QueryResult)[pri:0, instance:com.enhance.rtt.testcases.TC_001_Car_Page@27f981c6]" started-at="2022-03-28T01:07:41Z" name="TestCarPage" data-provider="Static" finished-at="2022-03-28T01:07:47Z" duration-ms="5288" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.trademe.co.nz/a/motors/cars/ferrari/portofino/listing/3515026071]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[com.maven.enchance.rtt.QueryResult@30b34287]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.enhance.rtt.testcases.TC_001_Car_Page.TestCarPage(TC_001_Car_Page.java:62)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[https://www.trademe.co.nz/a/motors/cars/ferrari/portofino/listing/3515026071]]>
+            </line>
+            <line>
+              <![CDATA[CAR ATTRIBUTES: 
+ 
+	 Odometer: 150, 
+	 Seats: 4, 
+	 Body Type: Convertible, 
+	 Number Plate: null]]>
+            </line>
+            <line>
+              <![CDATA[---Query #1---]]>
+            </line>
+            <line>
+              <![CDATA[Check odometer: 100<= actual_val :(150) <= 1000 STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[Check seats: 1<= actual_val :(4) <= -1 STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[Check plate : null STATUS: FAIL]]>
+            </line>
+            <line>
+              <![CDATA[Check body: expected(convertible) == actual(Convertible) STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[------------------]]>
+            </line>
+            <line>
+              <![CDATA[Step STATUS : FAIL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestCarPage -->
+        <test-method signature="TestCarPage(java.lang.String, com.maven.enchance.rtt.QueryResult)[pri:0, instance:com.enhance.rtt.testcases.TC_001_Car_Page@27f981c6]" started-at="2022-03-28T01:07:47Z" name="TestCarPage" data-provider="Static" finished-at="2022-03-28T01:07:50Z" duration-ms="3131" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.trademe.co.nz/a/motors/cars/ford/other/listing/3504035216]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[com.maven.enchance.rtt.QueryResult@66238be2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://www.trademe.co.nz/a/motors/cars/ford/other/listing/3504035216]]>
+            </line>
+            <line>
+              <![CDATA[CAR ATTRIBUTES: 
+ 
+	 Odometer: 1000, 
+	 Seats: 5, 
+	 Body Type: Convertible, 
+	 Number Plate: 0LDV8]]>
+            </line>
+            <line>
+              <![CDATA[---Query #1---]]>
+            </line>
+            <line>
+              <![CDATA[Check odometer: 100<= actual_val :(1000) <= 1000 STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[Check seats: 1<= actual_val :(5) <= -1 STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[Check plate : 0LDV8 STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[Check body: expected(convertible) == actual(Convertible) STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[------------------]]>
+            </line>
+            <line>
+              <![CDATA[Step STATUS : PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestCarPage -->
+        <test-method signature="TestCarPage(java.lang.String, com.maven.enchance.rtt.QueryResult)[pri:0, instance:com.enhance.rtt.testcases.TC_001_Car_Page@27f981c6]" started-at="2022-03-28T01:07:50Z" name="TestCarPage" data-provider="Static" finished-at="2022-03-28T01:07:53Z" duration-ms="3745" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.trademe.co.nz/a/motors/cars/ford/roadster/listing/3519456812]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[com.maven.enchance.rtt.QueryResult@22680f52]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[https://www.trademe.co.nz/a/motors/cars/ford/roadster/listing/3519456812]]>
+            </line>
+            <line>
+              <![CDATA[CAR ATTRIBUTES: 
+ 
+	 Odometer: 500, 
+	 Seats: 1, 
+	 Body Type: Convertible, 
+	 Number Plate: 27th]]>
+            </line>
+            <line>
+              <![CDATA[---Query #1---]]>
+            </line>
+            <line>
+              <![CDATA[Check odometer: 100<= actual_val :(500) <= 1000 STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[Check seats: 1<= actual_val :(1) <= -1 STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[Check plate : 27th STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[Check body: expected(convertible) == actual(Convertible) STATUS: PASS]]>
+            </line>
+            <line>
+              <![CDATA[------------------]]>
+            </line>
+            <line>
+              <![CDATA[Step STATUS : PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestCarPage -->
+      </class> <!-- com.enhance.rtt.testcases.TC_001_Car_Page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

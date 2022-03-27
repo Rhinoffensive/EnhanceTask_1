@@ -1,0 +1,359 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>4/2/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Mar 28 01:07:22 EET 2022</td>
+</tr>
+<tr><td>Total time:</td><td>31 seconds (31087 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.enhance.rtt.testcases.TC_001_Car_Page.TestCarPage()'><b>TestCarPage</b><br>Test class: com.enhance.rtt.testcases.TC_001_Car_Page<br>Parameters: https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3458321338, com.maven.enchance.rtt.QueryResult@27cf3151<br/>
+<a href="#Output-502891368" onClick='toggleBox("Output-502891368", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-502891368" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-502891368">
+https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3458321338<br/>
+CAR ATTRIBUTES: 
+ 
+	 Odometer: 100, 
+	 Seats: 4, 
+	 Body Type: Convertible, 
+	 Number Plate: null<br/>
+---Query #1---<br/>
+Check odometer: 100<= actual_val :(100) <= 1000 STATUS: PASS<br/>
+Check seats: 1<= actual_val :(4) <= -1 STATUS: PASS<br/>
+Check plate : null STATUS: FAIL<br/>
+Check body: expected(convertible) == actual(Convertible) STATUS: PASS<br/>
+------------------<br/>
+Step STATUS : FAIL<br/>
+</div>
+</td>
+<td><div><pre>java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.enhance.rtt.testcases.TC_001_Car_Page.TestCarPage(TC_001_Car_Page.java:62)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div><a href='#' onClick='toggleBox("stack-trace502891368", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace502891368'><pre>java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.enhance.rtt.testcases.TC_001_Car_Page.TestCarPage(TC_001_Car_Page.java:62)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>5</td>
+<td>com.enhance.rtt.testcases.TC_001_Car_Page@27f981c6</td></tr>
+<tr>
+<td title='com.enhance.rtt.testcases.TC_001_Car_Page.TestCarPage()'><b>TestCarPage</b><br>Test class: com.enhance.rtt.testcases.TC_001_Car_Page<br>Parameters: https://www.trademe.co.nz/a/motors/cars/ferrari/portofino/listing/3515026071, com.maven.enchance.rtt.QueryResult@30b34287<br/>
+<a href="#Output-5255258" onClick='toggleBox("Output-5255258", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-5255258" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-5255258">
+https://www.trademe.co.nz/a/motors/cars/ferrari/portofino/listing/3515026071<br/>
+CAR ATTRIBUTES: 
+ 
+	 Odometer: 150, 
+	 Seats: 4, 
+	 Body Type: Convertible, 
+	 Number Plate: null<br/>
+---Query #1---<br/>
+Check odometer: 100<= actual_val :(150) <= 1000 STATUS: PASS<br/>
+Check seats: 1<= actual_val :(4) <= -1 STATUS: PASS<br/>
+Check plate : null STATUS: FAIL<br/>
+Check body: expected(convertible) == actual(Convertible) STATUS: PASS<br/>
+------------------<br/>
+Step STATUS : FAIL<br/>
+</div>
+</td>
+<td><div><pre>java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.enhance.rtt.testcases.TC_001_Car_Page.TestCarPage(TC_001_Car_Page.java:62)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div><a href='#' onClick='toggleBox("stack-trace5255258", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace5255258'><pre>java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at org.testng.Assert.assertTrue(Assert.java:52)
+	at com.enhance.rtt.testcases.TC_001_Car_Page.TestCarPage(TC_001_Car_Page.java:62)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</pre></div></td>
+<td>5</td>
+<td>com.enhance.rtt.testcases.TC_001_Car_Page@27f981c6</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.enhance.rtt.testcases.TC_001_Car_Page.TestCarPage()'><b>TestCarPage</b><br>Test class: com.enhance.rtt.testcases.TC_001_Car_Page<br>Parameters: https://www.trademe.co.nz/a/motors/cars/other/other/listing/3265504164, com.maven.enchance.rtt.QueryResult@5990e6c5<br/>
+<a href="#Output-650013863" onClick='toggleBox("Output-650013863", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-650013863" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-650013863">
+https://www.trademe.co.nz/a/motors/cars/other/other/listing/3265504164<br/>
+CAR ATTRIBUTES: 
+ 
+	 Odometer: 1000, 
+	 Seats: 4, 
+	 Body Type: Convertible, 
+	 Number Plate: NSZ568<br/>
+---Query #1---<br/>
+Check odometer: 100<= actual_val :(1000) <= 1000 STATUS: PASS<br/>
+Check seats: 1<= actual_val :(4) <= -1 STATUS: PASS<br/>
+Check plate : NSZ568 STATUS: PASS<br/>
+Check body: expected(convertible) == actual(Convertible) STATUS: PASS<br/>
+------------------<br/>
+Step STATUS : PASS<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>com.enhance.rtt.testcases.TC_001_Car_Page@27f981c6</td></tr>
+<tr>
+<td title='com.enhance.rtt.testcases.TC_001_Car_Page.TestCarPage()'><b>TestCarPage</b><br>Test class: com.enhance.rtt.testcases.TC_001_Car_Page<br>Parameters: https://www.trademe.co.nz/a/motors/cars/jeep/wrangler/listing/3479133291, com.maven.enchance.rtt.QueryResult@e24ddd0<br/>
+<a href="#Output-156711739" onClick='toggleBox("Output-156711739", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-156711739" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-156711739">
+https://www.trademe.co.nz/a/motors/cars/jeep/wrangler/listing/3479133291<br/>
+CAR ATTRIBUTES: 
+ 
+	 Odometer: 200, 
+	 Seats: 4, 
+	 Body Type: Convertible, 
+	 Number Plate: UU4239<br/>
+---Query #1---<br/>
+Check odometer: 100<= actual_val :(200) <= 1000 STATUS: PASS<br/>
+Check seats: 1<= actual_val :(4) <= -1 STATUS: PASS<br/>
+Check plate : UU4239 STATUS: PASS<br/>
+Check body: expected(convertible) == actual(Convertible) STATUS: PASS<br/>
+------------------<br/>
+Step STATUS : PASS<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.enhance.rtt.testcases.TC_001_Car_Page@27f981c6</td></tr>
+<tr>
+<td title='com.enhance.rtt.testcases.TC_001_Car_Page.TestCarPage()'><b>TestCarPage</b><br>Test class: com.enhance.rtt.testcases.TC_001_Car_Page<br>Parameters: https://www.trademe.co.nz/a/motors/cars/ford/other/listing/3504035216, com.maven.enchance.rtt.QueryResult@66238be2<br/>
+<a href="#Output-1541942595" onClick='toggleBox("Output-1541942595", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1541942595" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1541942595">
+https://www.trademe.co.nz/a/motors/cars/ford/other/listing/3504035216<br/>
+CAR ATTRIBUTES: 
+ 
+	 Odometer: 1000, 
+	 Seats: 5, 
+	 Body Type: Convertible, 
+	 Number Plate: 0LDV8<br/>
+---Query #1---<br/>
+Check odometer: 100<= actual_val :(1000) <= 1000 STATUS: PASS<br/>
+Check seats: 1<= actual_val :(5) <= -1 STATUS: PASS<br/>
+Check plate : 0LDV8 STATUS: PASS<br/>
+Check body: expected(convertible) == actual(Convertible) STATUS: PASS<br/>
+------------------<br/>
+Step STATUS : PASS<br/>
+</div>
+</td>
+<td></td>
+<td>3</td>
+<td>com.enhance.rtt.testcases.TC_001_Car_Page@27f981c6</td></tr>
+<tr>
+<td title='com.enhance.rtt.testcases.TC_001_Car_Page.TestCarPage()'><b>TestCarPage</b><br>Test class: com.enhance.rtt.testcases.TC_001_Car_Page<br>Parameters: https://www.trademe.co.nz/a/motors/cars/ford/roadster/listing/3519456812, com.maven.enchance.rtt.QueryResult@22680f52<br/>
+<a href="#Output-36550900" onClick='toggleBox("Output-36550900", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-36550900" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-36550900">
+https://www.trademe.co.nz/a/motors/cars/ford/roadster/listing/3519456812<br/>
+CAR ATTRIBUTES: 
+ 
+	 Odometer: 500, 
+	 Seats: 1, 
+	 Body Type: Convertible, 
+	 Number Plate: 27th<br/>
+---Query #1---<br/>
+Check odometer: 100<= actual_val :(500) <= 1000 STATUS: PASS<br/>
+Check seats: 1<= actual_val :(1) <= -1 STATUS: PASS<br/>
+Check plate : 27th STATUS: PASS<br/>
+Check body: expected(convertible) == actual(Convertible) STATUS: PASS<br/>
+------------------<br/>
+Step STATUS : PASS<br/>
+</div>
+</td>
+<td></td>
+<td>3</td>
+<td>com.enhance.rtt.testcases.TC_001_Car_Page@27f981c6</td></tr>
+</table><p>
+</body>
+</html>

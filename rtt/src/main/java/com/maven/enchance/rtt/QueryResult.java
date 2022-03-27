@@ -8,7 +8,10 @@ public class QueryResult {
 	public List<Query> query;
 
 	public QueryResult(String urlLink, Query q) {
-		this.URLLink = urlLink;	
+		System.out.println("Query result!!");
+		String[] url = urlLink.split("\\?",0);
+		this.URLLink = url[0];	
+		System.out.println(this.URLLink);
 		query = new ArrayList<Query>();
 		query.add(q);
 		

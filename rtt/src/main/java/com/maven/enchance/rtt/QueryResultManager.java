@@ -23,6 +23,17 @@ public class QueryResultManager {
 	public QueryResultManager(Map<String, QueryResult>  qrs) {
 		QueryResults = qrs;
 	}
+	
+	public Object[][] TestProvider(){
+		
+		Object[][] res = new Object[QueryResults.size()][2];
+		int i = 0;
+		for(String key : QueryResults.keySet()) {
+			Object[] pair = new Object[] {key,QueryResults.get(key)};
+			res[i++] = pair;
+		}
+		return res;
+	}
 
 //	public boolean Contains(Query qr) {
 //		return QueryResults.containsKey(qr.URLLink);
@@ -33,16 +44,16 @@ public class QueryResultManager {
 
 		String jsonString = gson.toJson(QueryResults);
 
-		File myObj = new File("data\\QueryResults.json");
+		File myObj = new File("data"+File.separator+"QueryResults.json");
 		try {
 			if (myObj.createNewFile()) {
 				System.out.println("File created: " + myObj.getName());
-				FileWriter myWriter = new FileWriter("data\\QueryResults.json");
+				FileWriter myWriter = new FileWriter("data"+File.separator+"QueryResults.json");
 				myWriter.write(jsonString);
 				myWriter.close();
 			} else {
 				System.out.println("File already exists.");
-				FileWriter myWriter = new FileWriter("data\\QueryResults.json");
+				FileWriter myWriter = new FileWriter("data"+File.separator+"QueryResults.json");
 				myWriter.write(jsonString);
 				myWriter.close();
 
@@ -56,7 +67,7 @@ public class QueryResultManager {
 	}
 
 	public static QueryResultManager Deserialize() {
-		File myObj = new File("data\\QueryResults.json");
+		File myObj = new File("data"+File.separator+"QueryResults.json");
 		String jsonFile = "";
 		boolean parsed = false;
 		try {

@@ -10,88 +10,86 @@ import org.openqa.selenium.chrome.ChromeOptions;
 
 import static java.lang.System.out;
 
+import java.io.File;
+
 public class QueryResultPopulator {
 
 	ChromeDriver driver = null;
 	String rootURL = "https://www.trademe.co.nz/a/motors/cars/";
 
-	int[] odometer = { 100, 1000,  5000, 10000 };
-
-	
 	public void Init() {
-		System.setProperty("webdriver.chrome.driver", "drivers\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "drivers" + File.separator + "chromedriver.exe");
 		ChromeOptions options = new ChromeOptions();
 
 		options.addArguments("headless");
-		driver = new ChromeDriver(options);	
+		driver = new ChromeDriver(options);
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
-		
 	}
 
-
-	public void Populate(QueryResultManager qrm) {
+	public void Populate(QueryResultManager qrm, int[] odometer, int[] seats, String[] body) {
 
 		int total_listing = 0;
 
 		for (int minIndex = 0; minIndex < odometer.length - 1; minIndex++) {
 			for (int maxIndex = minIndex + 1; maxIndex < odometer.length; maxIndex++) {
+				for (int minSIndex = 0; minSIndex < seats.length - 1; minSIndex++) {
+					for (int maxSIndex = minSIndex + 1; maxSIndex < seats.length; maxSIndex++) {
+						int seat_min = seats[minSIndex];
+						int seat_max = seats[maxSIndex];
 
-				int odometer_min = odometer[minIndex];
-				int odometer_max = odometer[maxIndex];
+						for (String b : body) {
+							int odometer_min = odometer[minIndex];
+							int odometer_max = odometer[maxIndex];
 
-				out.println("odometer min: " + odometer_min + ", odometer max" + odometer_max);
-				
-				int currentPage = 1;
-				boolean isHaveAnyOCard = true;
+							Query q = new Query().SetOdometer(odometer_min, odometer_max).SetSeats(seat_min, seat_max)
+									.SetBodyType(b);
 
-				while (isHaveAnyOCard) {
+							int currentPage = 1;
+							boolean oCardPresent = true;
 
-					driver.get(String.format(
-							rootURL + "search?odometer_min=%d&odometer_max=%d&seats_min=4&seats_max=4&body_style=convertible&page=%d",
-							odometer_min, odometer_max, currentPage));
-					// Thread.sleep(10000);
-					List<WebElement> elements = driver.findElementsByCssSelector("div.o-card");
+							while (oCardPresent) {
 
-					if (elements.size() <= 0) {
-						isHaveAnyOCard = false;
-					} else {
-						int o_card_counter = 1;
-						for (int i = 1; i < elements.size(); i++) {
+//								driver.get(String.format(rootURL
+//										+ "search?odometer_min=%d&odometer_max=%d&seats_min=%d&seats_max=%d&body_style=%s&page=%d",
+//										odometer_min, odometer_max, seat_min, seat_max, b, currentPage));
 
-							WebElement elm = elements.get(i);
+								driver.get(q.GetQueryString() + String.format("&page=%d", currentPage));
 
-							try {
-								WebElement tag = elm.findElement(By.tagName("a"));
+								List<WebElement> elements = driver.findElementsByCssSelector("div.o-card");
 
-								String address = tag.getAttribute("href");
-								out.println(String.format("Page : %d, OCard : %d, link: %s", currentPage,
-										o_card_counter, address));
-								
-								Query q = new Query().SetOdometer(odometer_min, odometer_max).SetSeats(4, 4).SetBodyType("convertible");
-								qrm.Add(new QueryResult(address, q));
-								total_listing++;
-							} catch (Exception e) {
-								out.println(
-										String.format("Page : %d , OCard : %d not found", currentPage, o_card_counter));
+								if (elements.size() <= 0) {
+									oCardPresent = false;
+								} else {
+									int o_card_counter = 1;
+									for (int i = 1; i < elements.size(); i++) {
 
+										WebElement elm = elements.get(i);
+
+										try {
+											WebElement tag = elm.findElement(By.tagName("a"));
+											String address = tag.getAttribute("href");
+											out.println(String.format("Page : %d, OCard : %d, link: %s", currentPage,
+													o_card_counter, address));
+
+											qrm.Add(new QueryResult(address, q));
+											total_listing++;
+										} catch (Exception e) {
+											out.println(String.format("Page : %d , OCard : %d not found", currentPage,
+													o_card_counter));
+										}
+										o_card_counter++;
+									}
+								}
+								currentPage++;
 							}
-
-							o_card_counter++;
 						}
-
 					}
-					currentPage++;
-
 				}
 			}
-
 		}
-
 		out.println("Total listing :" + total_listing);
 
 	}
-
-
 
 }
