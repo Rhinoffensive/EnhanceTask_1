@@ -152,10 +152,13 @@ This is the body of the test. I preferred single assertion because single assert
 
         /rtt/test-output/emailable-report.html
 
+#### Overall Test Result
 ![picture alt](https://github.com/Rhinoffensive/EnhanceTask_1/blob/master/rtt/gitpic/test_overall.PNG?raw=true "Overall Test Result")
 
+#### Failed Test Step
 ![picture alt](https://github.com/Rhinoffensive/EnhanceTask_1/blob/master/rtt/gitpic/fail_step.PNG?raw=true "Failed Test Step")
 
+#### Passed Test Step
 ![picture alt](https://github.com/Rhinoffensive/EnhanceTask_1/blob/master/rtt/gitpic/pass_step.PNG?raw=true "Passed Test Step")
 
 
