@@ -1,49 +1,2640 @@
 {
-  "https://www.trademe.co.nz/a/motors/cars/other/other/listing/3265504164": {
-    "URLLink": "https://www.trademe.co.nz/a/motors/cars/other/other/listing/3265504164",
+  "https://www.trademe.co.nz/a/motors/cars/toyota/corolla/listing/3401897962": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/toyota/corolla/listing/3401897962",
     "query": [
       {
         "_odometer_min": 100,
         "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/peugeot/208/listing/3348608453": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/peugeot/208/listing/3348608453",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/b-180/listing/3458969978": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/b-180/listing/3458969978",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mg/3/listing/3512873548": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mg/3/listing/3512873548",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mg/3/listing/3515203905": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mg/3/listing/3515203905",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/juke/listing/3464257584": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/juke/listing/3464257584",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/ford/mondeo/listing/3479901774": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/ford/mondeo/listing/3479901774",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/rio/listing/3429880777": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/rio/listing/3429880777",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/b-180/listing/3443353603": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/b-180/listing/3443353603",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/demio/listing/3462972429": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/demio/listing/3462972429",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/fiat/500/listing/3325499807": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/fiat/500/listing/3325499807",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/i30-n/listing/3467829765": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/i30-n/listing/3467829765",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/citroen/c3/listing/3494416795": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/citroen/c3/listing/3494416795",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/citroen/c3/listing/3439414949": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/citroen/c3/listing/3439414949",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3512404652": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3512404652",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/toyota/starlet/listing/3501311572": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/toyota/starlet/listing/3501311572",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/toyota/yaris/listing/3527296688": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/toyota/yaris/listing/3527296688",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/rio/listing/3494346134": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/rio/listing/3494346134",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/rio/listing/3502115455": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/rio/listing/3502115455",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/toyota/corolla/listing/3383056360": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/toyota/corolla/listing/3383056360",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/c-200/listing/3519016715": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/c-200/listing/3519016715",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
         "_seats_min": 1,
         "_seats_max": -1,
         "_body_style": "convertible"
       }
     ]
   },
-  "https://www.trademe.co.nz/a/motors/cars/jeep/wrangler/listing/3479133291": {
-    "URLLink": "https://www.trademe.co.nz/a/motors/cars/jeep/wrangler/listing/3479133291",
+  "https://www.trademe.co.nz/a/motors/cars/honda/civic/listing/3480741477": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/honda/civic/listing/3480741477",
     "query": [
       {
         "_odometer_min": 100,
         "_odometer_max": 1000,
         "_seats_min": 1,
         "_seats_max": -1,
-        "_body_style": "convertible"
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
       }
     ]
   },
-  "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3458321338": {
-    "URLLink": "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3458321338",
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/gla-250/listing/3507877612": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/gla-250/listing/3507877612",
     "query": [
       {
         "_odometer_min": 100,
         "_odometer_max": 1000,
         "_seats_min": 1,
         "_seats_max": -1,
-        "_body_style": "convertible"
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
       }
     ]
   },
-  "https://www.trademe.co.nz/a/motors/cars/ferrari/portofino/listing/3515026071": {
-    "URLLink": "https://www.trademe.co.nz/a/motors/cars/ferrari/portofino/listing/3515026071",
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-35/listing/3338885826": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-35/listing/3338885826",
     "query": [
       {
         "_odometer_min": 100,
         "_odometer_max": 1000,
         "_seats_min": 1,
         "_seats_max": -1,
-        "_body_style": "convertible"
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/toyota/celica/listing/3526148537": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/toyota/celica/listing/3526148537",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3256355522": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3256355522",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/baleno/listing/3452892608": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/baleno/listing/3452892608",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/toyota/corolla/listing/3477442148": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/toyota/corolla/listing/3477442148",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/i30-n/listing/3282495423": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/i30-n/listing/3282495423",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/note/listing/3496863634": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/note/listing/3496863634",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3254792407": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3254792407",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mitsubishi/mirage/listing/3128787987": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mitsubishi/mirage/listing/3128787987",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/veloster/listing/2984428298": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/veloster/listing/2984428298",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3466089597": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3466089597",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3121903190": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3121903190",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3531283812": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3531283812",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/cerato/listing/3468917592": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/cerato/listing/3468917592",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/i30/listing/3519282614": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/i30/listing/3519282614",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/holden/astra/listing/3496905906": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/holden/astra/listing/3496905906",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/skoda/scala/listing/3284373200": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/skoda/scala/listing/3284373200",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mg/3/listing/3435207667": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mg/3/listing/3435207667",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mitsubishi/mirage/listing/3371683558": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mitsubishi/mirage/listing/3371683558",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3036801853": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3036801853",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3457782821": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3457782821",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/audi/a1/listing/3516330172": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/audi/a1/listing/3516330172",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3469363712": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3469363712",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/demio/listing/3532518231": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/demio/listing/3532518231",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/honda/civic/listing/3494420534": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/honda/civic/listing/3494420534",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/tiida/listing/3480024894": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/tiida/listing/3480024894",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/picanto/listing/3017315789": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/picanto/listing/3017315789",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/skoda/scala/listing/3477659463": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/skoda/scala/listing/3477659463",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/renault/megane/listing/3339616688": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/renault/megane/listing/3339616688",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3519040678": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3519040678",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/ignis/listing/3498143018": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/ignis/listing/3498143018",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/bmw/118i/listing/3475961066": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/bmw/118i/listing/3475961066",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/baleno/listing/3517573749": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/baleno/listing/3517573749",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/leaf/listing/3520727907": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/leaf/listing/3520727907",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/citroen/c4/listing/3495738457": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/citroen/c4/listing/3495738457",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/leaf/listing/3487367160": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/leaf/listing/3487367160",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3305187116": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3305187116",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3516562521": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3516562521",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/gla-250/listing/3526156037": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/gla-250/listing/3526156037",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-250/listing/3527556050": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-250/listing/3527556050",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mg/3/listing/2946654308": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mg/3/listing/2946654308",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/juke/listing/3477334857": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/juke/listing/3477334857",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/peugeot/508/listing/3516541790": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/peugeot/508/listing/3516541790",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/i30/listing/3313075190": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/i30/listing/3313075190",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/b-180/listing/3460969496": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/b-180/listing/3460969496",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/i20/listing/3527243073": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/i20/listing/3527243073",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/i30-n/listing/3522050375": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/i30-n/listing/3522050375",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3491290966": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3491290966",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3508800336": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3508800336",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3498529359": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3498529359",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3291029936": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3291029936",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-250/listing/3425877869": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-250/listing/3425877869",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/bmw/118i/listing/3455986674": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/bmw/118i/listing/3455986674",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3524934707": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3524934707",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/citroen/c3/listing/3436878441": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/citroen/c3/listing/3436878441",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3528516049": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3528516049",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/bmw/118i/listing/3034062213": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/bmw/118i/listing/3034062213",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/polo/listing/3467828049": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/polo/listing/3467828049",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/cerato/listing/3422030947": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/cerato/listing/3422030947",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/toyota/corolla/listing/3202961622": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/toyota/corolla/listing/3202961622",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/skoda/scala/listing/3513328294": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/skoda/scala/listing/3513328294",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/veloster/listing/3075240334": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/veloster/listing/3075240334",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/3/listing/3448103981": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/3/listing/3448103981",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/baleno/listing/3506589791": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/baleno/listing/3506589791",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3521054829": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3521054829",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/i30/listing/3289555350": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/i30/listing/3289555350",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3526054204": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3526054204",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3332481157": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3332481157",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-45/listing/3428775566": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-45/listing/3428775566",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3531278993": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3531278993",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/ford/capri/listing/3519035009": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/ford/capri/listing/3519035009",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/toyota/corolla/listing/3519454479": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/toyota/corolla/listing/3519454479",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/polo/listing/3357194460": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/polo/listing/3357194460",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-180/listing/3511819766": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-180/listing/3511819766",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3515009995": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3515009995",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/renault/megane/listing/3333903279": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/renault/megane/listing/3333903279",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3515009996": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3515009996",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/bmw/118i/listing/3506524941": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/bmw/118i/listing/3506524941",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/3/listing/3440862074": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/3/listing/3440862074",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/renault/megane/listing/3381964583": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/renault/megane/listing/3381964583",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/march/listing/3173265431": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/march/listing/3173265431",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/cerato/listing/3357153831": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/cerato/listing/3357153831",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/scirocco/listing/3480558588": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/scirocco/listing/3480558588",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/toyota/levin/listing/3469037821": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/toyota/levin/listing/3469037821",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/audi/a1/listing/3368981143": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/audi/a1/listing/3368981143",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3464523001": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3464523001",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/i30/listing/3425692435": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/i30/listing/3425692435",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3515010058": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3515010058",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/caddy/listing/3492466623": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/caddy/listing/3492466623",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/toyota/vitz/listing/3525228413": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/toyota/vitz/listing/3525228413",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3333575591": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3333575591",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/honda/fit/listing/3304747328": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/honda/fit/listing/3304747328",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3502897328": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3502897328",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/i30/listing/3502568191": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/i30/listing/3502568191",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/leaf/listing/3499930337": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/leaf/listing/3499930337",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-35/listing/3167790225": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-35/listing/3167790225",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/bmw/m135i/listing/3440874157": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/bmw/m135i/listing/3440874157",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/demio/listing/3504958096": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/demio/listing/3504958096",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/i30-n/listing/3481795008": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/i30-n/listing/3481795008",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3286171416": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3286171416",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/cerato/listing/3180206103": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/cerato/listing/3180206103",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/i30/listing/3502568189": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/i30/listing/3502568189",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/skoda/scala/listing/3090783936": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/skoda/scala/listing/3090783936",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/i30/listing/3291165395": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/i30/listing/3291165395",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/ford/laser/listing/3518869086": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/ford/laser/listing/3518869086",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/fiat/500/listing/3356497954": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/fiat/500/listing/3356497954",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/holden/spark/listing/3440909751": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/holden/spark/listing/3440909751",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/citroen/c3/listing/3447996711": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/citroen/c3/listing/3447996711",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3512232655": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3512232655",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/renault/zoe/listing/3422103443": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/renault/zoe/listing/3422103443",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3470541995": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3470541995",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3485847931": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3485847931",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/leaf/listing/3524442315": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/leaf/listing/3524442315",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/i30/listing/3313111593": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/i30/listing/3313111593",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3494078204": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3494078204",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/i30-n/listing/3290867226": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/i30-n/listing/3290867226",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/citroen/c3/listing/3392567278": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/citroen/c3/listing/3392567278",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
       }
     ]
   },
@@ -56,6 +2647,191 @@
         "_seats_min": 1,
         "_seats_max": -1,
         "_body_style": "convertible"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3509545654": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3509545654",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/polo/listing/3245669314": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/polo/listing/3245669314",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3517714521": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3517714521",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/venue/listing/3496872970": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/venue/listing/3496872970",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/cerato/listing/3532660908": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/cerato/listing/3532660908",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/skoda/scala/listing/3510620980": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/skoda/scala/listing/3510620980",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/baleno/listing/3498601197": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/baleno/listing/3498601197",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3497000217": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3497000217",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/3/listing/3527984249": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/3/listing/3527984249",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
       }
     ]
   },
@@ -68,6 +2844,2948 @@
         "_seats_min": 1,
         "_seats_max": -1,
         "_body_style": "convertible"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/renault/zoe/listing/3371547818": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/renault/zoe/listing/3371547818",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/verisa/listing/3518886926": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/verisa/listing/3518886926",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3516562565": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3516562565",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mitsubishi/mirage/listing/3518962999": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mitsubishi/mirage/listing/3518962999",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/toyota/yaris/listing/3210474236": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/toyota/yaris/listing/3210474236",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/2/listing/2788032728": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/2/listing/2788032728",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/picanto/listing/2801379719": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/picanto/listing/2801379719",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mini/cooper/listing/3505136259": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mini/cooper/listing/3505136259",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/honda/civic/listing/3519332608": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/honda/civic/listing/3519332608",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-250/listing/3526156006": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-250/listing/3526156006",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-35/listing/3409929454": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-35/listing/3409929454",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3014556918": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3014556918",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/other/other/listing/3265504164": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/other/other/listing/3265504164",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/picanto/listing/2888652179": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/picanto/listing/2888652179",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/bmw/i3/listing/3327856874": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/bmw/i3/listing/3327856874",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/cerato/listing/3333901249": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/cerato/listing/3333901249",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3458321338": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3458321338",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3477463871": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3477463871",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/veloster/listing/2470208728": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/veloster/listing/2470208728",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/bmw/118i/listing/3488715637": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/bmw/118i/listing/3488715637",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/i30/listing/3501154362": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/i30/listing/3501154362",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3509926814": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3509926814",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3387644770": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3387644770",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/cx-30/listing/3524822448": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/cx-30/listing/3524822448",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3420657393": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3420657393",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/renault/zoe/listing/3467907407": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/renault/zoe/listing/3467907407",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/honda/jazz/listing/3446535140": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/honda/jazz/listing/3446535140",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3529010719": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3529010719",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/2/listing/3483062559": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/2/listing/3483062559",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/skoda/scala/listing/3398232274": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/skoda/scala/listing/3398232274",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/lexus/ct-200h/listing/3474291740": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/lexus/ct-200h/listing/3474291740",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/cupra/leon/listing/3492855553": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/cupra/leon/listing/3492855553",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/baleno/listing/3528988243": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/baleno/listing/3528988243",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/citroen/c3/listing/3348608325": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/citroen/c3/listing/3348608325",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3016958636": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3016958636",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-250/listing/3467614156": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-250/listing/3467614156",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/eqa/listing/3531624050": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/eqa/listing/3531624050",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/jaguar/i-pace/listing/3502478202": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/jaguar/i-pace/listing/3502478202",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3524642674": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3524642674",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/note/listing/3344567664": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/note/listing/3344567664",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/cupra/leon/listing/3225897801": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/cupra/leon/listing/3225897801",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/demio/listing/3424658777": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/demio/listing/3424658777",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-250/listing/3519258043": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-250/listing/3519258043",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-250/listing/3511847694": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/a-250/listing/3511847694",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/ferrari/portofino/listing/3030311534": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/ferrari/portofino/listing/3030311534",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3265209459": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3265209459",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/picanto/listing/3521679301": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/picanto/listing/3521679301",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3517573768": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3517573768",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/audi/rs3/listing/3442658132": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/audi/rs3/listing/3442658132",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/b-180/listing/3295287737": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/b-180/listing/3295287737",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/rio/listing/3427032632": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/rio/listing/3427032632",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/honda/jazz/listing/3400387258": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/honda/jazz/listing/3400387258",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/renault/zoe/listing/3169102124": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/renault/zoe/listing/3169102124",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/e-350/listing/3343229530": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/e-350/listing/3343229530",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/leaf/listing/3263950395": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/leaf/listing/3263950395",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/cerato/listing/3158373010": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/cerato/listing/3158373010",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mini/cooper/listing/3491770284": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mini/cooper/listing/3491770284",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/3/listing/3516319563": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/3/listing/3516319563",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/2/listing/3465950818": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/2/listing/3465950818",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/leaf/listing/3524765072": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/leaf/listing/3524765072",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/leaf/listing/3524765070": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/leaf/listing/3524765070",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/renault/zoe/listing/3471885121": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/renault/zoe/listing/3471885121",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/note/listing/3518838873": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/note/listing/3518838873",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/stonic/listing/3475779702": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/stonic/listing/3475779702",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/picanto/listing/3092659016": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/picanto/listing/3092659016",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3517573782": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3517573782",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/baleno/listing/3525903014": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/baleno/listing/3525903014",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/bmw/m135i/listing/3524442401": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/bmw/m135i/listing/3524442401",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/jeep/wrangler/listing/3479133291": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/jeep/wrangler/listing/3479133291",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3376230982": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3376230982",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/3/listing/3530636876": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/3/listing/3530636876",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/2928465468": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/2928465468",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3513509315": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/golf/listing/3513509315",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/picanto/listing/3161008395": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/picanto/listing/3161008395",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3514926642": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3514926642",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3377559551": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3377559551",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/holden/spark/listing/3528186834": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/holden/spark/listing/3528186834",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mini/cooper/listing/3502313997": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mini/cooper/listing/3502313997",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/audi/a1/listing/3341908323": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/audi/a1/listing/3341908323",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/other/other/listing/3523281988": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/other/other/listing/3523281988",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3467614004": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3467614004",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/skoda/scala/listing/3511995461": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/skoda/scala/listing/3511995461",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/ford/focus/listing/3487185642": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/ford/focus/listing/3487185642",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/honda/jazz/listing/3455844436": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/honda/jazz/listing/3455844436",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mg/3/listing/3300604720": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mg/3/listing/3300604720",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/bmw/m135i/listing/3525925128": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/bmw/m135i/listing/3525925128",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/ferrari/portofino/listing/3515026071": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/ferrari/portofino/listing/3515026071",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/cerato/listing/3219359703": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/cerato/listing/3219359703",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mg/3/listing/3506863907": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mg/3/listing/3506863907",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/picanto/listing/3447797138": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/picanto/listing/3447797138",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mitsubishi/mirage/listing/3446211241": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mitsubishi/mirage/listing/3446211241",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/leaf/listing/3488483910": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/leaf/listing/3488483910",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/citroen/c3/listing/3348608199": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/citroen/c3/listing/3348608199",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/gla-250/listing/3527483468": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/gla-250/listing/3527483468",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3516500568": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3516500568",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/seat/arona/listing/3488667473": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/seat/arona/listing/3488667473",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3391028154": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3391028154",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/verisa/listing/3519608990": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/verisa/listing/3519608990",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/toyota/corolla/listing/3509610841": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/toyota/corolla/listing/3509610841",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/baleno/listing/3358446407": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/baleno/listing/3358446407",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/bmw/118i/listing/3395073356": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/bmw/118i/listing/3395073356",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3450913652": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3450913652",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/porsche/911/listing/3362028884": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/porsche/911/listing/3362028884",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/baleno/listing/3014556921": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/baleno/listing/3014556921",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/ignis/listing/3523161430": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/ignis/listing/3523161430",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3516123659": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3516123659",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/ferrari/portofino/listing/3350542800": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/ferrari/portofino/listing/3350542800",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3518946250": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3518946250",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/leaf/listing/3515604460": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/leaf/listing/3515604460",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/toyota/prius/listing/3477514265": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/toyota/prius/listing/3477514265",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/honda/civic/listing/3479976257": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/honda/civic/listing/3479976257",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/skoda/scala/listing/3206162223": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/skoda/scala/listing/3206162223",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/hyundai/accent/listing/3467925818": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/hyundai/accent/listing/3467925818",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/audi/a1/listing/3468915359": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/audi/a1/listing/3468915359",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3516500559": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/fiat/abarth/listing/3516500559",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/note/listing/3357786450": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/note/listing/3357786450",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/renault/megane/listing/3440988479": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/renault/megane/listing/3440988479",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/niro/listing/3368492051": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/niro/listing/3368492051",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/micra/listing/3487673188": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/micra/listing/3487673188",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/323/listing/3494901524": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/323/listing/3494901524",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/rio/listing/3489954113": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/rio/listing/3489954113",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3518052364": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/audi/a3/listing/3518052364",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/polo/listing/3210292726": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/polo/listing/3210292726",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/picanto/listing/3505872968": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/picanto/listing/3505872968",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3524564863": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3524564863",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/ferrari/812-gts/listing/3514752981": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/ferrari/812-gts/listing/3514752981",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mg/3/listing/3468775232": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mg/3/listing/3468775232",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/toyota/yaris/listing/3514023832": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/toyota/yaris/listing/3514023832",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/toyota/yaris/listing/3373365031": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/toyota/yaris/listing/3373365031",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mg/3/listing/3468775230": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mg/3/listing/3468775230",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/axela/listing/3519062811": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/axela/listing/3519062811",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3315546012": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/swift/listing/3315546012",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/toyota/yaris/listing/3500953129": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/toyota/yaris/listing/3500953129",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/bmw/i3/listing/3523378516": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/bmw/i3/listing/3523378516",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/polo/listing/3186962493": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/polo/listing/3186962493",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/audi/s3/listing/3517446880": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/audi/s3/listing/3517446880",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/suzuki/ignis/listing/3527417882": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/suzuki/ignis/listing/3527417882",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/rio/listing/3517746328": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/rio/listing/3517746328",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/nissan/cube/listing/3523489158": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/nissan/cube/listing/3523489158",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/honda/other/listing/3426979403": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/honda/other/listing/3426979403",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/ford/focus/listing/3510784372": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/ford/focus/listing/3510784372",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/polo/listing/3476184111": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/polo/listing/3476184111",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/cerato/listing/3185777894": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/cerato/listing/3185777894",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/honda/jazz/listing/3420489484": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/honda/jazz/listing/3420489484",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/volkswagen/polo/listing/3479169170": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/volkswagen/polo/listing/3479169170",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/kia/rio/listing/3093944163": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/kia/rio/listing/3093944163",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/daihatsu/sirion/listing/3479125479": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/daihatsu/sirion/listing/3479125479",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/skoda/scala/listing/3494164709": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/skoda/scala/listing/3494164709",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/mx-5/listing/3438327967": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/mx-5/listing/3438327967",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "convertible"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/honda/fit/listing/3529030838": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/honda/fit/listing/3529030838",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mg/3/listing/2907154776": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mg/3/listing/2907154776",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/bmw/other/listing/3524433280": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/bmw/other/listing/3524433280",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 1000,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      }
+    ]
+  },
+  "https://www.trademe.co.nz/a/motors/cars/mazda/axela/listing/3505395970": {
+    "URLLink": "https://www.trademe.co.nz/a/motors/cars/mazda/axela/listing/3505395970",
+    "query": [
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 1000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
+      },
+      {
+        "_odometer_min": 100,
+        "_odometer_max": 5000,
+        "_seats_min": 1,
+        "_seats_max": -1,
+        "_body_style": "hatchback"
       }
     ]
   }

@@ -1,4 +1,4 @@
-package com.maven.enchance.rtt;
+package com.maven.enhance.rtt;
 
 import java.util.List;
 import java.util.concurrent.TimeUnit;
@@ -19,7 +19,7 @@ public class QueryResultPopulator {
 
 	public void Init() {
 		System.setProperty("webdriver.chrome.driver", "drivers" + File.separator + "chromedriver.exe");
-		ChromeOptions options = new ChromeOptions();
+		ChromeOptions options = new ChromeOptions();		
 
 		options.addArguments("headless");
 		driver = new ChromeDriver(options);

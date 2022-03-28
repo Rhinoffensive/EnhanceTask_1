@@ -18,9 +18,9 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import com.enhance.rtt.pages.CarPage;
-import com.maven.enchance.rtt.Query;
-import com.maven.enchance.rtt.QueryResult;
-import com.maven.enchance.rtt.QueryResultManager;
+import com.maven.enhance.rtt.Query;
+import com.maven.enhance.rtt.QueryResult;
+import com.maven.enhance.rtt.QueryResultManager;
 
 public class TC_001_Car_Page {
 

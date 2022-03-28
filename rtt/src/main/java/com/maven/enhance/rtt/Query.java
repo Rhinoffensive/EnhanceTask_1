@@ -1,4 +1,4 @@
-package com.maven.enchance.rtt;
+package com.maven.enhance.rtt;
 
 import org.testng.Reporter;
 
@@ -31,8 +31,7 @@ public class Query {
 
 	public boolean ValidateOdometer(int value) {
 		System.out.println("Odometer: " + this._odometer_min + " <= " + value + " <= " + this._odometer_max);
-		boolean isOk = (_odometer_min <= value || (_odometer_min == -1 ? true : false))
-				&& (_odometer_max >= value || (_odometer_max == -1 ? true : false));
+		boolean isOk = (_odometer_min <= value || (_odometer_min == -1 ? true : false))	&& (_odometer_max >= value || (_odometer_max == -1 ? true : false));
 		Reporter.log("Check odometer: " + this._odometer_min + "<= actual_val :(" + value + ") <= " + this._odometer_max
 				+ " STATUS: " + (isOk ? "PASS" : "FAIL"));
 
