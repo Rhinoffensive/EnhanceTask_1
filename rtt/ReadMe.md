@@ -18,15 +18,21 @@ I have used  Eclipse as an IDE and  Maven as the package manager.
 
 ## Approach
 
-trademe.nz has quite a populated car listing. (32,000+)
-In order to decrease the workload by preventing looking for the same link more than once, the script first stores links as a dictionary. The dictionary's key is the link and its values are list of queries that hits.
 
 
-My project consists of two stages.
-1.  /rtt/src/main/java/com/maven/enhance/rtt/App.java 
-    This makes the queries and serializes the results as json file.
-2. /rtt/src/test/java/com/enhance/rtt/testcases/TC_001_Car_Page.java
-    This deserializes the json file and runs a single test step in a data-oriented manner.
+
+My project consists of two stages:
+1. trademe.nz has quite a populated car listing (32,000+).
+In order to decrease the workload by preventing looking for the same link more than once, the script first stores links as a dictionary. The dictionary's key is the link and its value is a list of queries that hits. This makes the queries and serializes the results as json file.
+
+        /rtt/src/main/java/com/maven/enhance/rtt/App.java 
+    
+
+2.  The test case deserializes the json file and runs a single test step in a data-oriented manner.
+
+        /rtt/src/test/java/com/enhance/rtt/testcases/TC_001_Car_Page.java
+    
+
 
 - - - -
 
@@ -103,6 +109,51 @@ int[] seats = { 1, -1};
     "URLLink": "https://www.trademe.co.nz/a/motors/cars/mercedes-benz/b-180/listing/3458969978",
     "query": [...  
 ```
+
+4. Now data is ready for the test run! Run test run!
+
+But before the test, I initialize chrome with headless options. I believe it is a huge performance booster. And deserialize json file. 
+
+```java 
+	@DataProvider(name = "Static")
+	public Object[][] TestDataGenerator() {
+		return manager.TestProvider();
+	}
+
+	@Test(dataProvider = "Static")
+	public void TestCarPage(String key, QueryResult qr) {
+
+		CarPage car_page = new CarPage(driver, key);		
+		Reporter.log(key);
+		car_page.GetCarAttributes();
+		Reporter.log(String.format(car_attr_formatter, car_page.GetOdometer(), car_page.GetSeatsNumber(),
+				car_page.GetBodyStyle(), car_page.GetPlateNumber()));
+
+		boolean test_status = true;
+		int i = 0;
+		for (Query q : qr.query) {
+			
+			Reporter.log("---Query #" + (++i) + "---");
+			test_status &= q.ValidateOdometer(car_page.GetOdometer());
+			test_status &= q.ValidateSeatsNumber(car_page.GetSeatsNumber());
+			test_status &= q.ValidatePlateNumber(car_page.GetPlateNumber());
+			test_status &= q.ValidateBodyStyle(car_page.GetBodyStyle());
+			Reporter.log("------------------");
+		}
+		
+		Reporter.log("Step STATUS : " + (test_status? "PASS":"FAIL"));
+		assertTrue(test_status);
+		System.out.println("-------------------------");
+	}
+```
+This is the body of the test. I preferred single assertion because single assertion interrupts the current test step. But we already have data in hand why not check it!
+
+5. Time to see the report. 
+        /rtt/test-output/emailable-report.html
+
+
+
+
 
 
 

@@ -10,7 +10,7 @@
     <classes>
       <class name="com.enhance.rtt.testcases.TC_001_Car_Page">
         <methods>
-          <include name="TestCarPage" invocation-numbers="2 3"/>
+          <include name="TestCarPage" invocation-numbers="4 9 11 19 24 26 28 33 34 44 45 56 59 66 80 82 88 90 95 103 108 109 111 114 117 120 122 127 129 131 133 135 136 148 149 156 157 162 164 167 168 173 174 178 185 190 192 205 210 211 215 220 222 224 235 237 241 250 254 256 257 259 276 290 293 295 296 298 300 301"/>
           <include name="Init"/>
         </methods>
       </class> <!-- com.enhance.rtt.testcases.TC_001_Car_Page -->
