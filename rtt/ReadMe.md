@@ -148,8 +148,16 @@ But before the test, I initialize chrome with headless options. I believe it is 
 ```
 This is the body of the test. I preferred single assertion because single assertion interrupts the current test step. But we already have data in hand why not check it!
 
-5. Time to see the report. 
+5. Time to see the report.
+
         /rtt/test-output/emailable-report.html
+
+![picture alt](https://github.com/Rhinoffensive/EnhanceTask_1/blob/master/rtt/gitpic/test_overall.PNG?raw=true "Overall Test Result")
+
+![picture alt](https://github.com/Rhinoffensive/EnhanceTask_1/blob/master/rtt/gitpic/fail_step.PNG?raw=true "Failed Test Step")
+
+![picture alt](https://github.com/Rhinoffensive/EnhanceTask_1/blob/master/rtt/gitpic/pass_step.PNG?raw=true "Passed Test Step")
+
 
 
 
